@@ -1,0 +1,53 @@
+* {
+    margin:0%;
+    padding:0%;
+    text-decoration:none;
+    list-style:none;
+    transition:0.2s;
+    transition-delay:0.1s;
+    transition-timing-function:ease-in-out;    
+}
+
+body {
+    background-color:black;
+}
+
+main#sistema-001 {
+    border:7px double rgba(0, 128, 0, 0.447);
+    padding:27px 17px 27px 17px;
+    margin:37px 22px 37px 22px;
+    height:367px;
+    background-color:rgba(0, 128, 0, 0.129);  
+}
+
+ul#UlList--001 li {
+   display:inline-block;   
+}
+
+ul#UlList--001 a {
+   color:white;  
+}
+
+div.camera-01--1 {
+   border:4px double rgb(0, 255, 0);
+   height:177px;
+   width:177px; 
+   margin:4px;
+   pointer-events:all;
+}
+
+div.camera-01--1 a {
+  margin-left:29%;
+  margin-top:77px;
+}
+
+aside#camera-tela-001 {
+    border:7px double rgb(0, 255, 0);    
+    height:377px;
+    width:367px;
+    float:right;
+}
+
+main#sistema-002 {   
+    width:587px;
+}
